@@ -1,0 +1,16 @@
+{
+  "name": "gerador_qr_code_ecommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Utility kit for e-commerce",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
